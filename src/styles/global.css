@@ -1,0 +1,26 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: #455a64; */
+    /* background-color: #292d3f; */
+
+    /* background-color: #ffffff;
+    color: #4b4b4b; */
+
+    /* backdrop-filter: blur(4px); */
+    /* background: linear-gradient(135deg, #444 20%, #111 30%); */
+}
+
+/* *
+ * Palette
+ * Primary:     #455a64
+ * P — Light:   #718792
+ * P — Dark:    #1c313a
+ * Text on P:   #d4e157
+ *
+ * Secondary:   #dce775  / #cddc39
+ * S — Light:   #ffffa6
+ * S — Dark:    #a8b545
+ * Text on S:   #263238
+ */
